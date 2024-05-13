@@ -16,7 +16,7 @@ Top 5 Most Streamed Tracks: A visualization showcasing the top 5 most streamed t
 Tracks and Streams by Month: Monthly trends of tracks and streams provide insights into music consumption patterns over time.
 Daily Streams for All Tracks: Daily stream data offers a granular view of music engagement, enabling real-time monitoring and analysis.
 Steps to Use
-Accessing the Dashboard: Click on the provided Dashboard Link to access the Spotify Music Analysis Dashboard.
+
 
 Exploring Data: Use the interactive features within the dashboard to explore different aspects of Spotify music data. You can search for specific tracks, artists, or analyze trends over time.
 
